@@ -3,12 +3,12 @@ div{
     height: 84px;
     margin: 0 auto;
 }
-#hherti{
+#headertext{
     font-size: 64px;
     text-align: center;
     color: #8E26C0;
 }
-#perti{
+#mainChance{
     width: 446px;
     height: 38px;
     margin: left;
@@ -19,7 +19,7 @@ div{
     text-align: left;
     color: #FF0000;
 }
-#pori{
+#mainAdvantage{
     width: 943px;
     height: 96px;
     padding: 24px 40px;
@@ -32,7 +32,7 @@ div{
     text-align: center;
     color: #85647B;
 }
-#psami{
+#mainSeasonSale{
     width: 943px;
     height: 85px;
     padding: 24px 40px;
@@ -41,7 +41,7 @@ div{
     line-height: 38.4px;
     text-align: center;
 }
-#serti{
+#salePercentage{
     font-size: 40px;
     line-height: 48px;
     text-align: center;
@@ -49,7 +49,7 @@ div{
     text-decoration-style: solid;
     color: red;
 }
-#potxi{
+#mainOpportunity{
     width: 989px;
     height: 38px;
     padding: 24px 40px;
@@ -59,7 +59,7 @@ div{
     text-align: right;
     color: #0064CE;
 }
-#imgerti{
+#saleImg{
     width: 556px;
     height: 347px;
     margin: left;
